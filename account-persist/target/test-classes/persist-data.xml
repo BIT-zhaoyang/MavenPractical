@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<account_persist> 
+  <accounts>
+    <account>
+      <id>juven</id>
+      <name>Juven Xu</name>
+      <email>juvenxu@changeme.com</email>
+      <password>this_should_be_encrypted</password>
+      <activated>true</activated>
+    </account>
+  </accounts> 
+</account_persist>
